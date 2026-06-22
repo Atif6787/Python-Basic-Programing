@@ -1,4 +1,5 @@
 # Temperature through function
+
 while True:
   c = float(input("Enter the temperature in celcius: "))
   if c == 00:
